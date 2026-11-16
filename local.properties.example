@@ -1,0 +1,4 @@
+## TMDB API Configuration
+# Get your API Read Access Token or API Key from https://www.themoviedb.org/settings/api
+TMDB_API_KEY=your_tmdb_api_key_here
+TMDB_ACCESS_TOKEN=your_tmdb_read_access_token_here
